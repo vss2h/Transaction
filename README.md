@@ -1,2 +1,2 @@
 # Transaction
-this project  simulates a payment transaction 
+this project  simulates a payment transaction. 
